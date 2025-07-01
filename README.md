@@ -57,6 +57,4 @@ You can deploy this project to platforms like:
 - Heroku
 - PythonAnywhere
 
-## License
 
-This project is open-source and free to use for personal or educational purposes.
